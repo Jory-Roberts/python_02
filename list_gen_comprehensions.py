@@ -65,7 +65,7 @@ print(f"Memory used by list comprehension: {list_size} bytes")
 print(f"Memory used by generator comprehension: {generator_size} bytes")
 
 """
-In most cases, you will observe that the memory used by the generator 
-comprehension is significantly smaller than the memory used by the list comprehension. 
+In most cases, you will observe that the memory used by the generator
+comprehension is significantly smaller than the memory used by the list comprehension.
 This difference becomes more noticeable as the limit increases.
 """
